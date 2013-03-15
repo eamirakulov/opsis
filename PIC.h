@@ -2,7 +2,7 @@
 #define PIC_H
 #include <functional>
 
-nameSPace virtMachine
+namespace virtMachine
 {
 
 	class PIC

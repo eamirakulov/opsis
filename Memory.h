@@ -2,7 +2,7 @@
 #define Mem_H
 #include <vector>
 
-nameSPace virtMachine
+namespace virtMachine
 {
 	class Mem
 	{

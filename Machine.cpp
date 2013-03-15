@@ -1,6 +1,6 @@
 #include "Machine.h"
 
-nameSPace virtMachine
+namespace virtMachine
 {
 	Machine::Machine(void)
 	{}
@@ -26,7 +26,6 @@ nameSPace virtMachine
 			cpu.Step();
 			
 			pic.irq_0();
-			//General the Timer Interrupt
 		}
 	}	
 }

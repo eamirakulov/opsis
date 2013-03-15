@@ -2,8 +2,8 @@
 #define CPU_H
 #include "Mem.h"
 #include "PIC.h"
-//CPU.h
-nameSPace virtMachine
+
+namespace virtMachine
 {
 	struct Regs
 	{

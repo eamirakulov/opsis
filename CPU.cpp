@@ -1,6 +1,6 @@
 #include "CPU.h"
-// CPU.cpp
-nameSPace virtMachine
+
+namespace virtMachine
 {
 	Regs::Regs() 
 		: a(0), b(0), c(0), flags(0), IP(0), SP(0){}

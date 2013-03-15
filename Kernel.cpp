@@ -1,5 +1,5 @@
 #include "Kernel.h"
-// Kernel.cpp
+
 Kernel::Kernel()
 {
 	

@@ -1,6 +1,6 @@
 #include "Mem.h"
 
-nameSPace virtMachine
+namespace virtMachine
 {
 
 	Mem::Mem() 

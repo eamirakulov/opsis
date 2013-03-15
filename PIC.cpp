@@ -1,6 +1,6 @@
 #include "PIC.h"
 
-nameSPace virtMachine
+namespace virtMachine
 {
 	PIC::PIC ()
 		: irq_0([]() {}),
