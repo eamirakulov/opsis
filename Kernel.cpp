@@ -8,7 +8,7 @@ Kernel::Kernel()
 
 Kernel::Kernel()
 	: machine()
-	_last_issed_process_id(0),
+	_last_issued_process_id(0),
 	_last_ram_position(0),
 	_current_process_index(0),
 	_cycle_passed_after_preemption(0)
